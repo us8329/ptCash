@@ -1,0 +1,1 @@
+Git add to every change made by Claude; Push it to repo end of every session
